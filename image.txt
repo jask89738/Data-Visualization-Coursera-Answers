@@ -1,0 +1,8 @@
+The amount of time that a watch will run without having to be reset isa RV
+having an exponential distribution with mean 120 days. Find the probability
+that such a watch will
+
+(i) have to be set in less than 24 days and
+
+(ii) not have to be reset in at least 180 days.
+

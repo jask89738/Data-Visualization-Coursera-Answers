@@ -1,0 +1,23 @@
+1.Question 1
+Use the Dognition_aggregated_by_DogID data set for the quiz questions. Note that we use comma (,) to separate groups of thousands in numbers.
+
+How many unique human user IDs are there in the Dognition_aggregated_by_DogID data set?
+
+16,261
+
+
+
+2.Question 2
+What feature is common to all the rows that have a value of 37 in the “State” field of the Dognition_aggregated_by_DogID data set? Check all that apply.
+
+
+They are all from Estonia
+
+
+
+3.Question 3
+What property is common to almost all the data points that had “Sign In Counts” of greater than 175 in the Dognition_aggregated_by_DogID data set?
+
+
+They are all Shih Tzus that weigh 190 lbs
+
